@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    background-color: #262523;
+    text-align: center;
+    
+}
+
+h1{
+   color: white;
+   text-shadow: 2px 2px 2px rgb(19, 19, 19);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+  color: white;
+
+}
+
+main img{
+  box-shadow: 10px 10px 15px black;
+  width: 250px;
+
+}
